@@ -1,2 +1,2 @@
 # NumberThings
-DrewHans555 and I are working on some number stuff
+A JavaFX port of Pr0Ca1 (https://github.com/DrewHans555/Pr0Ca1).
